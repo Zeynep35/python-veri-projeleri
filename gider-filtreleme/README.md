@@ -6,14 +6,13 @@ Uygulama eğer yanlış bir format ile giriş yapıldığını tespit ederse hat
 ## Nasıl çalıştırılır?
 
 ```bash
-python app.py
+python main.py
 
 ```
 
 ## Örnek Çıktı
 
-<<<<<<< HEAD
-Hangi tarih için işlem yapmak istiyorsunuz: (gün, ay, yıl şeklinde giriniz.)29.11.2025
+Hangi tarih için işlem yapmak istiyorsunuz: (gün, ay, yıl şeklinde giriniz.)30.11.2025
 Hangi etiket için işlem yapmak istiyorsunuz: (yemek, market, eglence)yemek
-Tarih: [] 
-Etiket: [{'tarih': '28.11.2025', 'etiket': 'yemek'}] 
+Sonuç: []
+Sonuç: [{'tarih': '28.11.2025', 'etiket': 'yemek'}]
