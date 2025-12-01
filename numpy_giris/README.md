@@ -1,29 +1,19 @@
-Python Veri Projeleri
+# Numpy Giriş Seviyesi Mini Proje
 
-Bu repo, tamamen Python kullanarak geliştirdiğim mini veri projeleri, öğrenme amaçlı uygulamalar ve temel veri manipülasyonu çalışmalarını içermektedir.
-Her proje modüler yapıda tasarlanmış olup hem okunabilir hem de kolay genişletilebilir bir mimariye sahiptir.
+Bu projenin amacı temel Python fonksiyonları kullanarak **ortalama (mean)**,  
+**standart sapma (standard deviation)** ve **yüzdelik değerleri (percentiles)**  
+hesaplayan basit bir veri analizi uygulaması geliştirmektir.
 
+## Nasıl Çalıştırılır?
 
-📌 Proje Listesi
+```bash
+python app.py
 
+```
+##Örnek Çıktı
 
-1️⃣ Liste İşlemleri Mini Projesi (deneme-liste)
+Ortalama: 529.5
 
-2️⃣ Gider Filtreleme Uygulaması (gider-filtreleme)
+Standart Sapması: 309.6615087478584
 
-
-🛠️ Kullanılan Teknolojiler
-
-Python 3+
-
-Virtual Environment (venv)
-
-Git / GitHub
-
-Modüler proje yapısı
-
-
-💙 Amaç
-
-Bu repo, hem kendi Python ilerlememi belgelemek hem de veri bilimi yolculuğunda minik projelerle pratik yapmak amacıyla oluşturulmuştur.
-Her proje bağımsızdır ve düzenli olarak yeni mini projeler eklenecektir.
+Yüzdelik Hesaplaması: (264, 474, 886)
